@@ -43,5 +43,10 @@
 ##### QM : Aneesh Nayak
 ###### 07/18
 
+</br>
+##### Quiz Name : QuizSmash (August 2018 Monthly)
+##### QM : Suraj Kamat
+###### 08/18
+
 
 
