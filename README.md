@@ -46,10 +46,14 @@
 ##### QM : Aneesh Nayak
 ###### 07/18
 
+##### Quiz Name : Quiz ME
+##### QM : Devansh Cholera
+###### 08/18
+
+##### Quiz Name : InQuizIt
+##### QM : Chaman Bhai
+###### 08/18
 
 ##### Quiz Name : QuizSmash (August 2018 Monthly)
 ##### QM : Suraj Kamat
 ###### 08/18
-
-
-
