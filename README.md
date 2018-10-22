@@ -57,3 +57,7 @@
 ##### Quiz Name : QuizSmash (August 2018 Monthly)
 ##### QM : Suraj Kamat
 ###### 08/18
+
+##### Quiz Name : Quizzine De GEC
+##### QM : Aman Parab
+###### 10/18
