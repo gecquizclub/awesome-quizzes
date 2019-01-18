@@ -61,3 +61,7 @@
 ##### Quiz Name : Quizzine De GEC
 ##### QM : Aman Parab
 ###### 10/18
+
+##### Quiz Name : That's How Mallya Works (January 2019 Monthly)
+##### QM : Shawn Pereira
+###### 01/19
