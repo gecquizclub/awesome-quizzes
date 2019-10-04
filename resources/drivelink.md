@@ -6,3 +6,6 @@
 
 2. Happenings Quiz (2018)</br> 
 ###### https://drive.google.com/drive/folders/1riJgS_DDPsS5XCTWI8qw-HNuIEjovL3_?usp=sharing
+
+3. July monthly Quiz(2019)</br>
+###### https://docs.google.com/presentation/d/1JsfMW-FlUNo8JiPn3bvd_yZVGw1JwAIUWCVauvoZgxM/edit?usp=sharing
